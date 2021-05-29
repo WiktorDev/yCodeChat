@@ -1,0 +1,6 @@
+name: ycodeChat
+version: 1.0
+main: xyz.ycode.plugin.chat.Main
+api-version: 1.16
+author: wiktor#1597
+website: https://ycode.xyz

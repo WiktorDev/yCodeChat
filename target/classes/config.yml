@@ -1,0 +1,23 @@
+#Plugin by ycode.xyz
+#website https://ycode.xyz
+
+#global
+perm: "&8>> &cYou don't have permission &8(&7%perm%&8)"
+usage: "&8%> &7Use: %usage%"
+#Chat on/off/clear
+chat_is_on: "&cChat is now on!"
+chat_is_off: "&cChat is now off!"
+chat_on: "&8%> &7chat was turned off by &f&l%player% &7!"
+chat_off: "&8%> &7chat was turned on by &f&l%player%&7!"
+chat_clear: "&8%> &7chat was cleaned by &f&l%player%&7!"
+chat_currently_off: "&cChat is now off!"
+chat_cooldown: "&8%> &cWait a few seconds before sending another message!"
+#other
+word_add_success: "&aNew word has been successfully added to the blacklist!"
+word_already_exists: "&cThis word has already been added to the blacklist!"
+illegal_words: "&cYour message contains illegal content!"
+
+#1 second = 1000L
+cooldown: 3000L
+
+blockedwords:
